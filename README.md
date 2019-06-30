@@ -7,6 +7,7 @@ Trabalho de Calculo 1
 * Criar e entrar no diretorio
 
     $ mkdir nome_diretorio
+
     $ cd nome_diretorio
 
 2 - Fazer o git clone
@@ -17,7 +18,7 @@ Trabalho de Calculo 1
 
 .cpp:
 
-    $ g++ -o /tmp/a.out trabalho_calculo.cpp && /tmp/a.out
+    $ g++ -o /tmp/a.out trabalho_calculo.cpp && /tmp/a.outs
 
 .py
 
